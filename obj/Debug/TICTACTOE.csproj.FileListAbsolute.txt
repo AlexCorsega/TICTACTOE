@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\bin\Debug\TICTACTOE.exe.config
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\bin\Debug\TICTACTOE.exe
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\bin\Debug\TICTACTOE.pdb
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\obj\Debug\TICTACTOE.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\obj\Debug\TICTACTOE.Form1.resources
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\obj\Debug\TICTACTOE.Properties.Resources.resources
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\obj\Debug\TICTACTOE.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\obj\Debug\TICTACTOE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\obj\Debug\TICTACTOE.exe
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\obj\Debug\TICTACTOE.pdb
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\obj\Debug\TICTACTOE.MainUI.resources
+C:\Users\user\Desktop\Visual Studio Projects\TICTACTOE\obj\Debug\TICTACTOE.PlayerVsComputer.resources
